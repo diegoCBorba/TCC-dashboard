@@ -1,4 +1,4 @@
-# 🌿 Irrigação Inteligente Utilizando Visão Computacional — Dashboard Web
+# Dashboard Web para Irrigação Inteligente 
 
 Dashboard web em tempo real para monitoramento do sistema automatizado de irrigação hidropônica desenvolvido como Trabalho de Conclusão de Curso.
 
